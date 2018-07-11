@@ -1,4 +1,4 @@
-FROM rhel7:7.5-404
+FROM library/ubuntu:18.04
 MAINTAINER pichuang@pichuang.com.tw
 RUN echo "Hello 1-sdnds-tw" > /tmp/newfile
 RUN echo "Hello 2-CNTUG" > /tmp/newfile2
