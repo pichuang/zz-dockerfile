@@ -7,3 +7,4 @@ RUN echo "Hello 4-OpenShift" > /tmp/newfile4
 RUN echo "zz no gg" > /tmp/zz
 RUN echo "pichuang no gg" > /tmp/pch
 RUN echo "123" > /tmp/123
+RUN echo "Hello 5-openstack" > /tmp/newfile5
