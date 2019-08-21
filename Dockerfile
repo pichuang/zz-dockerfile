@@ -8,3 +8,4 @@ RUN echo "zz no gg" > /tmp/zz
 RUN echo "pichuang no gg" > /tmp/pch
 RUN echo "123" > /tmp/123
 RUN echo "Hello 5-openstack" > /tmp/newfile5
+RUN echo "20190821" > /tmp/newfil6
