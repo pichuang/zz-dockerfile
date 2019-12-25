@@ -1,4 +1,4 @@
-FROM library/ubuntu:18.04
+FROM library/centos:7.6.1810
 MAINTAINER pichuang@pichuang.com.tw
 RUN echo "Hello 1-sdnds-tw" > /tmp/newfile
 RUN echo "Hello 2-CNTUG" > /tmp/newfile2
