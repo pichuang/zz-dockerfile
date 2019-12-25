@@ -1,11 +1,3 @@
 FROM library/centos:7.6.1810
 MAINTAINER pichuang@pichuang.com.tw
-RUN echo "Hello 1-sdnds-tw" > /tmp/newfile
-RUN echo "Hello 2-CNTUG" > /tmp/newfile2
-RUN echo "Hello 3-DevOps-tw" > /tmp/newfile3
-RUN echo "Hello 4-OpenShift" > /tmp/newfile4
-RUN echo "zz no gg" > /tmp/zz
-RUN echo "pichuang no gg" > /tmp/pch
-RUN echo "123" > /tmp/123
-RUN echo "Hello 5-openstack" > /tmp/newfile5
-RUN echo "20190821" > /tmp/newfil6
+RUN echo "20191225" > /tmp/newfile
